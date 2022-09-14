@@ -16,7 +16,7 @@ body{
    
 }
 .bimage{
-    background-image: url(IMAGES/restaurant\ 1.png);
+    background-image: url(https://asset.cloudinary.com/beautifulone0/15c6ed5373ebb04f948f587bc82e1f4e);
     background-size: cover;
     background-position: center;
     height: 100vh;
